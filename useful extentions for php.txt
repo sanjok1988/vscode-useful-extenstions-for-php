@@ -1,0 +1,9 @@
+1. PHP Intelephense
+2. Laravel goto view
+3. Laravel Easy Blade Snippets
+4. PHP IntelliSense
+5. PHP Namespace Resolver
+6. PHP import checker
+7. goto-package
+8. laravel-goto-controller
+9. Php DocBlock Generator
